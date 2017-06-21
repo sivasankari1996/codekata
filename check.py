@@ -4,4 +4,4 @@ if x<0:
 elif x>0:
 	print("positive")
 else:
-	print("null")
+	print("zero")
